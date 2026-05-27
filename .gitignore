@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.pyc
+
+*/DATA/
+*/RESULTS_NN/
+*/RESULTS_PINN/
+*/RESULTS_FULL_*/
+*/RESULTS_CONST_*/
+*.h5
+*.keras
+*.ckpt
+*.pkl
